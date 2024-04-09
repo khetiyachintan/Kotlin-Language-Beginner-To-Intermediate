@@ -198,7 +198,7 @@
 
 ## Others
 ```
-✅ 	Null safety
+✅ Null safety
 ✅ Equality
 ✅ This expression
 ```
